@@ -94,5 +94,5 @@ Access the frontend at `http://localhost:8081` .
 ## 🙌 Contributors
 
 1. Ashish Asnani
-2. Ritika
-3. Maanvi
+2. Ritika kar
+3. Maanvitha Allampalli  
